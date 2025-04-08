@@ -8,7 +8,7 @@ extra_include_dir = 'header'  # Change this to your actual include directory
 env.Append(CPPPATH=[extra_include_dir])
 
 
-for name in ['Friend_Questionaire', 'Shooting','Stairs', 'Quidditch']:
+for name in ['Friend_Questionaire', 'Shooting','Stairs', 'Quidditch','Wizard_Chess']:
     
 
     # Compile the C++ source file
